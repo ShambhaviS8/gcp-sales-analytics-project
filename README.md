@@ -1,4 +1,4 @@
-# # 📊 Sales Analytics Pipeline using Google Cloud Platform
+#  📊 Sales Analytics Pipeline using Google Cloud Platform
 
 ## 🚀 Project Overview
 
